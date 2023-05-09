@@ -1,26 +1,18 @@
 # End User License Agreement for Flyby App
 
-This End User License Agreement ("Agreement") is a legally binding agreement between you ("User") and Flyby for the use of the Flyby Messaging App ("App"). By downloading, installing, or using the App, User agrees to be bound by the terms and conditions of this Agreement. If User does not agree to the terms and conditions of this Agreement, User must not download, install, or use the App.
+This End User License Agreement ("Agreement") is a legally binding agreement between you ("User") and SupposedlyCoding LLC ("Flyby") for the use of the Flyby Messaging App ("App"). By downloading, installing, or using the App, User agrees to be bound by the terms and conditions of this Agreement. If User does not agree to the terms and conditions of this Agreement, User must not download, install, or use the App.
 
-## User Conduct
+## User Conduct and User Generated Content
 
-User agrees to use the App in a manner consistent with all applicable laws and regulations. User agrees to not use the App to:
+The App is an end-to-end encrypted messaging app, and as such, User acknowledges and agrees that they are solely responsible for self-moderating User Generated Content from others. If anything in Flyby is transmitted that is not in alignment with the user agreement below, User is suggested to immediately leave the group or disconnect from the User who transmitted the content.
 
-- Harass, threaten, or intimidate any other User
-- Post or transmit any content that is obscene, offensive, or defamatory
-- Infringe on any third-party's intellectual property rights
-
-User agrees to be generally nice to one another while using the App.
-
-## User Generated Content
-
-The App is an end-to-end encrypted messaging app, and as such, User acknowledges and agrees that they are solely responsible for self-moderating User Generated Content from others. If anything in Flyby is transmitted that is listed under the User Conduct section, User is suggested to immediately leave the group or disconnect from the User who transmitted the content.
-
-User agrees to not upload, post, or transmit any User Generated Content that:
+User agrees to use the App in a manner consistent with all applicable laws and regulations. User agrees to not upload or transmit any User Generated Content that:
 
 - Is unlawful, harmful, or misleading
+- Harasses, threatens, or intimidates any other User
 - Infringes on any third-party's intellectual property rights
 - Contains viruses, malware, or other harmful components
+- Is obscene, offensive, or defamatory
 
 Flyby may remove any User Generated Content or User Accounts at any time without notice.
 
