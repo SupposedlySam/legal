@@ -1,6 +1,6 @@
 # End User License Agreement for Flyby App
 
-This End User License Agreement ("Agreement") is a legally binding agreement between you ("User") and Flyby Inc. ("Flyby") for the use of the Flyby App ("App"). By downloading, installing, or using the App, User agrees to be bound by the terms and conditions of this Agreement. If User does not agree to the terms and conditions of this Agreement, User must not download, install, or use the App.
+This End User License Agreement ("Agreement") is a legally binding agreement between you ("User") and Flyby for the use of the Flyby Messaging App ("App"). By downloading, installing, or using the App, User agrees to be bound by the terms and conditions of this Agreement. If User does not agree to the terms and conditions of this Agreement, User must not download, install, or use the App.
 
 ## User Conduct
 
